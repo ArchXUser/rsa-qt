@@ -15,7 +15,7 @@ Simple implementation of RSA.
 ### Installation
 
 1. Install [Python 3](https://www.python.org/downloads/)
-2. Create and activate an virtual environment 
+2. Create and activate a virtual environment 
     * `python -m venv env`
     * `source env/bin/activate` for Linux and macOS
     * `env\Scripts\activate.bat` for Windows
